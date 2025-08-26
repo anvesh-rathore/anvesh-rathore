@@ -85,9 +85,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anvesh-rathore&icon=0&color=0" alt="Profile Visit Count"/>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
